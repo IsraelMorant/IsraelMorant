@@ -6,7 +6,7 @@ Hello, I have been programming since high school, from websites, mobile apps amo
 * 🌍  I'm based in Mexico, Puebla
 * ✉️  You can contact me at [israelmorantl@gmail.com](mailto:israelmorantl@gmail.com)
 * 🧠  I'm learning Chapel
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
 <a href="https://www.x.com/@MoranteLuna" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@MoranteLuna?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
 /></a>
