@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Israel Morante
 ======================================================================================================================================
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+
 Hello, I have been programming since high school, from websites, mobile apps among other things, I am currently studying Computer Science
 
 * 🌍  I'm based in Mexico, Puebla
